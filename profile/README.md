@@ -20,7 +20,7 @@ Our vision is to be a leading global hub for computational and translational res
 
 # [CODONZ Ed: Computing Biology](https://www.youtube.com/channel/UCTQLHS9U-trtBczRhksLWwA) 
 
-![codonz original](https://github.com/user-attachments/assets/9499748c-e9bd-42f9-ab67-f248d17ff0b2)
+![codonz original](https://github.com/user-attachments/assets/609f922b-d30e-4fc0-b15b-a4cb129a069b)
 
 As part of its commitment to knowledge sharing and scientific advancement, CODONZ has launched [CODONZ Ed](https://www.youtube.com/channel/UCTQLHS9U-trtBczRhksLWwA), an educational initiative dedicated to training the next generation of researchers in computational biology and bioinformatics.
 
