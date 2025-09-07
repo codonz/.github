@@ -16,3 +16,12 @@ At CODONZ, our mission is to harness the power of bioinformatics, computational 
 ## Vision
 
 Our vision is to be a leading global hub for computational and translational research, where cutting-edge science meets practical application. We aspire to transform healthcare, agriculture, and environmental sustainability through the One Health approach, pioneering breakthroughs that shape the future of precision medicine, preventive healthcare, and sustainable living.
+
+
+CODONZ Ed: Computing Biology 
+
+As part of its commitment to knowledge sharing and scientific advancement, CODONZ has launched CODONZ Ed, an educational initiative dedicated to training the next generation of researchers in computational biology and bioinformatics.
+
+CODONZ Ed reflects our belief that science thrives when knowledge is accessible. Through this platform, we aim to provide free and open access to high-quality learning resources, training modules, and mentorship opportunities, enabling students, early-career researchers, and professionals to build strong foundations in data-driven life sciences.
+
+Our vision for CODONZ Ed is to create an inclusive learning ecosystem that not only equips learners with technical expertise in bioinformatics but also fosters critical thinking, innovation, and collaboration across disciplines. By lowering barriers to education, we seek to empower a global community of scientists ready to tackle tomorrow’s challenges in health, agriculture, and the environment.
