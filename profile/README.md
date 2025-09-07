@@ -1,6 +1,8 @@
 # CODONZ: The Bioinformatics & Computational Biology Research Group
 
-<img width="400" height="400" alt="136169094" src="https://github.com/user-attachments/assets/eada97de-a7cb-4f5e-a074-adeb37cd9202" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eada97de-a7cb-4f5e-a074-adeb37cd9202" alt="136169094" width="400" height="400"/>
+</p>
 
 
 ## Introduction to CODONZ
