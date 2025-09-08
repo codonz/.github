@@ -1,7 +1,7 @@
 <div align="center">
 
-# [CODONZ: 
-The Bioinformatics & Computational Biology Research Group](https://github.com/codonz)
+# [CODONZ] 
+# [The Bioinformatics & Computational Biology Research Group](https://github.com/codonz)
 
 </div>
 
