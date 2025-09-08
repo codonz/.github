@@ -1,4 +1,8 @@
+<div align="center">
+
 # [CODONZ: The Bioinformatics & Computational Biology Research Group](https://github.com/codonz)
+
+</div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eada97de-a7cb-4f5e-a074-adeb37cd9202" alt="136169094" width="400" height="400"/>
