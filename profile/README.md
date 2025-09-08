@@ -11,7 +11,7 @@
 
 ## Introduction to CODONZ
 
-CODONZ is a privately owned research group specializing in bioinformatics and computational biology, with a focus on advancing science through the One Health approach. We bring together expertise in systems biology, computational structural proteomics, vaccine development, and clinical metagenomics, aiming to address complex health challenges at the interface of humans, animals, and the environment.
+CODONZ is a privately owned research group specializing in bioinformatics and computational biology, with a focus on advancing science through the One Health approach. We bring together expertise in clinical metagenomics, systems biology, computational structural proteomics, vaccine development, and high performance computing (HPC), aiming to address complex health challenges at the interface of humans, animals, and the environment.
 
 Our team leverages biostatistics, advanced data analytics, and integrative computational tools to explore biological systems, accelerate drug and vaccine discovery, and improve clinical diagnostics. Beyond computational research, CODONZ contributes to probiotic studies and clinical trials, ensuring our work has direct translational impact.
 
