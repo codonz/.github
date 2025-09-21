@@ -19,7 +19,7 @@ Through innovation, collaboration, and data-driven science, CODONZ strives to be
 
 ## Mission
 
-At CODONZ, our mission is to harness the power of bioinformatics, computational biology, and data-driven research to advance human, animal, and environmental health. By integrating expertise in systems biology, structural proteomics, vaccine development, and clinical metagenomics, we strive to deliver innovative solutions that address global health challenges, accelerate therapeutic discoveries, and improve clinical outcomes.
+At CODONZ, our mission is to harness the power of bioinformatics, computational biology, and data-driven research to advance human, animal, and environmental health. By integrating expertise in systems biology, structural proteomics, vaccine development, and clinical genomics and metagenomics, we strive to deliver innovative solutions that address global health challenges, accelerate therapeutic discoveries, and improve clinical outcomes.
 
 ## Vision
 
