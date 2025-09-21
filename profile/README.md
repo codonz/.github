@@ -5,9 +5,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eada97de-a7cb-4f5e-a074-adeb37cd9202" alt="136169094" width="400" height="400"/>
+  <img src="https://github.com/user-attachments/assets/43b8410e-7633-4abc-ab92-95d9b80600da" alt="136169094" width="400" height="400"/>
 </p>
-
 
 ## Introduction to CODONZ
 
