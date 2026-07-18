@@ -24,7 +24,7 @@ To establish CODONZ as a globally recognized center for computational omics rese
 
 # [CODONZ Ed: Computing Biology](https://www.youtube.com/channel/UCTQLHS9U-trtBczRhksLWwA) 
 
-##Open Science for Everyone
+## Open Science for Everyone
 
 **CODONZ Ed** is the open science and scientific communication initiative of **CODONZ Research Laboratory**, established with a simple belief: **scientific knowledge should be accessible to everyone.** Science advances humanity most effectively when discoveries, education, and opportunities for learning are shared openly rather than confined by barriers.
 
