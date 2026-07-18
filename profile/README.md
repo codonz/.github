@@ -22,7 +22,9 @@ To advance the frontiers of computational omics and systems biology through rigo
 
 To establish CODONZ as a globally recognized center for computational omics research, where scientific curiosity, computational innovation, and interdisciplinary collaboration converge to uncover the fundamental principles of life. We envision a future in which advances in bioinformatics, genomics, metagenomics, structural biology, systems biology, and integrative multi-omics enable transformative discoveries that redefine precision medicine, infectious disease research, food & nutritional research, biotechnology, agriculture, and environmental health. By continuously exploring the unknown and translating knowledge into meaningful innovation, we aspire to contribute lasting scientific advances that benefit humanity and inspire future generations of researchers.
 
-# [CODONZ Ed: Open Science for Everyone](https://www.youtube.com/channel/UCTQLHS9U-trtBczRhksLWwA) 
+# [CODONZ Ed: Computing Biology](https://www.youtube.com/channel/UCTQLHS9U-trtBczRhksLWwA) 
+
+##Open Science for Everyone##
 
 **CODONZ Ed** is the open science and scientific communication initiative of **CODONZ Research Laboratory**, established with a simple belief: **scientific knowledge should be accessible to everyone.** Science advances humanity most effectively when discoveries, education, and opportunities for learning are shared openly rather than confined by barriers.
 
