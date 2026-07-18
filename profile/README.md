@@ -1,4 +1,4 @@
-<div align="Right">
+<div align="Left">
 
 # [CODONZ: The Computational Omics Research Laboratory](https://github.com/codonz)
 
