@@ -1,33 +1,28 @@
 <div align="center">
 
-# [CODONZ: The Bioinformatics & Computational Systems Biology Research Group](https://github.com/codonz)
-
-</div>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/43b8410e-7633-4abc-ab92-95d9b80600da" alt="136169094" width="1400" height="700"/>
-</p>
+# [CODONZ: The Computational Omics Research Laboratory](https://github.com/codonz)
 
 ## Introduction to CODONZ
 
-CODONZ is a privately owned research group specializing in bioinformatics and computational biology, with a focus on advancing science through the One Health approach. We bring together expertise in clinical genomics, clinical metagenomics, systems biology, mathematical modeling, statistical modeling, computational structural proteomics, vaccine development, and high performance computing (HPC), aiming to address complex health challenges at the interface of humans, animals, and the environment.
+CODONZ Research Laboratory is an independent, privately founded computational omics research laboratory established by [Umar Amjid](https://github.com/proumaramjid). The laboratory is dedicated to advancing scientific discovery through interdisciplinary research in bioinformatics, computational biology, and data-driven life sciences. Guided by the One Health framework, CODONZ investigates the complex biological interactions connecting humans, animals, microorganisms, and the environment to generate knowledge that contributes to healthier and more sustainable societies.
 
-Our team leverages biostatistics, advanced data analytics, and integrative computational tools to explore biological systems, accelerate drug and vaccine discovery, and enhance clinical diagnostics. Beyond computational research, CODONZ provides services and consultancy in good research practices aligned with bioethical standards, assists in study design, and supports the establishment and management of high-performance computing infrastructure—ensuring our work has a direct and lasting translational impact.
+At CODONZ, we believe that scientific progress begins with curiosity and a deep understanding of the fundamental mechanisms that govern living systems. Our research integrates computational genomics, computational metagenomics, systems biology, structural biology, mathematical and statistical modeling, machine learning, and high-performance computing to decode biological complexity across multiple scales. By transforming large-scale biological data into meaningful biological insights, we seek to uncover the molecular, cellular, and ecological principles that drive health, disease, evolution, and adaptation.
 
-Through innovation, collaboration, and data-driven science, CODONZ strives to become a trusted partner in delivering sustainable, high-impact solutions that improve global health and wellbeing.
+Our work spans the entire computational omics spectrum, from genome and microbiome analysis to protein structure prediction, systems-level modeling, and integrative multi-omics. We develop and apply innovative computational methods that enable researchers to explore biological systems with greater precision, accelerate scientific discovery, and translate complex data into actionable knowledge.
+
+Beyond scientific research, CODONZ is committed to promoting rigorous and reproducible science through bioinformatics support, computational infrastructure development, study design, statistical methodology, and adherence to ethical research practices. We actively foster interdisciplinary collaboration, open scientific inquiry, and innovation, believing that the greatest breakthroughs emerge when diverse scientific perspectives converge.
+
+As a research laboratory, our purpose extends beyond generating data or developing computational tools. We strive to deepen humanity's understanding of life itself—revealing the mechanisms that shape biological systems and translating those discoveries into innovations that improve health, protect ecosystems, advance precision medicine, strengthen agriculture, and ultimately contribute to the betterment of humanity.
 
 ## Mission
 
-At CODONZ, our mission is to harness the power of bioinformatics, computational biology, and data-driven research to advance human, animal, and environmental health. By integrating expertise in systems biology, structural proteomics, vaccine development, and clinical genomics and metagenomics, we strive to deliver innovative solutions that address global health challenges, accelerate therapeutic discoveries, and improve clinical outcomes.
+To advance the frontiers of computational omics and systems biology through rigorous, innovative, and interdisciplinary research that deepens our understanding of biological systems across molecular, organismal, and ecological scales. We are committed to developing computational approaches that reveal the fundamental mechanisms underlying life, health, disease, evolution, and host–microbe interactions while promoting scientific excellence, reproducibility, ethical research, and open collaboration. Through discovery-driven science, we aim to generate knowledge and technologies that contribute to improving human health, animal health, environmental sustainability, and the overall wellbeing of society.
 
 ## Vision
 
-Our vision is to be a leading global hub for computational and translational research, where cutting-edge science meets practical application. We aspire to transform healthcare, agriculture, and environmental sustainability through the One Health approach, pioneering breakthroughs that shape the future of precision medicine, preventive healthcare, and sustainable living.
-
+To establish CODONZ as a globally recognized center for computational omics research, where scientific curiosity, computational innovation, and interdisciplinary collaboration converge to uncover the fundamental principles of life. We envision a future in which advances in bioinformatics, genomics, metagenomics, structural biology, systems biology, and integrative multi-omics enable transformative discoveries that redefine precision medicine, infectious disease research, food & nutritional research, biotechnology, agriculture, and environmental health. By continuously exploring the unknown and translating knowledge into meaningful innovation, we aspire to contribute lasting scientific advances that benefit humanity and inspire future generations of researchers.
 
 # [CODONZ Ed: Computing Biology](https://www.youtube.com/channel/UCTQLHS9U-trtBczRhksLWwA) 
-
-![codonz original](https://github.com/user-attachments/assets/609f922b-d30e-4fc0-b15b-a4cb129a069b)
 
 As part of its commitment to knowledge sharing and scientific advancement, CODONZ has launched [CODONZ Ed](https://www.youtube.com/channel/UCTQLHS9U-trtBczRhksLWwA), an educational initiative dedicated to training the next generation of researchers in computational biology and bioinformatics.
 
