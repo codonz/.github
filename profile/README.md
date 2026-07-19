@@ -2,6 +2,8 @@
 
 # [CODONZ: The Computational Omics Research Laboratory](https://github.com/codonz)
 
+<img width="3418" height="1501" alt="Cover Photo FB jpg" src="https://github.com/user-attachments/assets/242cb32f-c782-4034-b2e1-e1a1be13286c" />
+
 ## Introduction to CODONZ
 
 CODONZ Research Laboratory is an independent, privately founded computational omics research laboratory established by [Umar Amjid](https://github.com/proumaramjid). The laboratory is dedicated to advancing scientific discovery through interdisciplinary research in bioinformatics, computational biology, and data-driven life sciences. Guided by the One Health framework, CODONZ investigates the complex biological interactions connecting humans, animals, microorganisms, and the environment to generate knowledge that contributes to healthier and more sustainable societies.
